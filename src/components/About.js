@@ -6,7 +6,7 @@ function About(props) {
   return (
     <div>
       <Header />
-      <div className="intro">
+     <div className="intro">
           Hi, I'm Ingrid. I self-taught python via online course and later joined a 9-weeks-bootcamp at lewagon. 
           I am a curious person and love to see people using the application that I build. 
         </div>
