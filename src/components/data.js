@@ -1,4 +1,4 @@
-export const allProjects = [
+export const projects = [
     {
       img: ["/image/dateplan.png", "/image/dateindex.png"],
       name: "Dating Guru",
@@ -8,10 +8,23 @@ export const allProjects = [
         "HTML",
         "CSS",
         "JavaScript",
-        "Ruby on Rails",
+        "Ruby on Rails
         "Bootstrap",
         "PostgreSQL",
       ],
-      style: ["Website"]
-    }
+    },
+    {
+        img: ["/image/renthomepng", "/image/rentindex.png","/image/rentindex2.png"],
+        name: "Rent Dress",
+        url: "https://rentdress.herokuapp.com/",
+        github: "https://github.com/AkaneF/rent_dress",
+        skills: [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Ruby on Rails",
+          "Bootstrap",
+          "PostgreSQL",
+        ],
+      }
 ]
