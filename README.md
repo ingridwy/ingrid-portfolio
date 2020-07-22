@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dating Guru
+## About
+Ingrid's portfolio website 
+Using:
+* create-react-app
+* react-router
+* Javascript ES6
+* Bootstrap
+* HTML5
+
+LinkedIn: [Ingrid Cheng](https://www.linkedin.com/in/ingrid-cheng/)<br>
+Website:
 
 ## Available Scripts
 
