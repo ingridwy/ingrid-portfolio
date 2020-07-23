@@ -1,9 +1,13 @@
 import React from "react"
+import {Link} from "react-router-dom"
+
  class Header extends React.Component {
    render(){
     return (
-      <div>
-        <h1>Header</h1>
+      <div class="header">
+        <Link to="/home">Home</Link>
+        <Link to="/about">About</Link>
+        <Link to="/projects">Projects</Link>
       </div>
     )
    }
