@@ -8,10 +8,10 @@ export const projects = [
         "HTML",
         "CSS",
         "JavaScript",
-        "Ruby on Rails
+        "Ruby on Rails",
         "Bootstrap",
-        "PostgreSQL",
-      ],
+        "PostgreSQL"
+      ]
     },
     {
         img: ["/image/renthomepng", "/image/rentindex.png","/image/rentindex2.png"],
@@ -24,7 +24,7 @@ export const projects = [
           "JavaScript",
           "Ruby on Rails",
           "Bootstrap",
-          "PostgreSQL",
-        ],
+          "PostgreSQL"
+        ]
       }
 ]
