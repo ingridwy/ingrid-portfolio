@@ -1,11 +1,9 @@
-body{
-  background-color: #eee2dc;
-}
 .App {
   text-align: center;
   font-family:"Lora", sans-serif;
   letter-spacing: 0.5px;
   line-height: 2em;
+  background-color: #eee2dc;
 }
 
 .App-logo {
@@ -43,7 +41,8 @@ body{
   }
 }
  /*header*/
- .header a{
+
+ .nav-link{
   text-decoration: none;
   text-transform: uppercase;
  }
@@ -60,7 +59,9 @@ body{
 .about-contact a{
   text-decoration: none;
   text-transform: uppercase;
+  color:black;
 }
+/*footer*/
 .footer{
   padding: 20px;
 }
