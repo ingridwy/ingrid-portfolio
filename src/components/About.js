@@ -10,13 +10,15 @@ class About extends React.Component{
         <Header />
       <div className="about-body">
 
-       <div className="intro">
+       <div className="intro about-item">
+        <p>
             Hi, I'm Ingrid.<br></br>
-            I self-taught python via online course and later joined a 9-weeks-bootcamp at lewagon. <br></br>
-            I am a curious person and love to see people using the application that I build. 
+            I self-taught python via online course and later joined a 9-weeks-bootcamp at Le Wagon. <br></br>
+            
+            </p>
         </div>
 
-        <div>
+        <div className="about-item">
           <h2>Skills</h2>
           <ul className="about-list">
             <li>Ruby on Rails</li>
@@ -34,14 +36,14 @@ class About extends React.Component{
             <li>Heroku</li>
           </ul>
         </div>
-        <div>
+        <div className="about-item">
           <h2>Education</h2>
           <ul className="about-list">
             <li>Le Wagon (9 weeks fulltime onsite Bootcamp)</li>
             <li>King's College,London (Bsc Nursing Studies)</li>
           </ul>
         </div>
-        <div>
+        <div className="about-item">
           <h2>Contact</h2>
           <ul className="about-list about-contact">
             <a href="https://www.linkedin.com/in/ingrid-cheng/" target="_blank">

@@ -1,17 +1,21 @@
 import React from "react"
 import Header from './Header'
 import Footer from './Footer'
+import projects from "./Data";
  
-class Projects extends React.Component {
-  render(){
+function Projects() {
+  const projectInfo = projects.map(project => project={project})
+
     return (
       <div>
-           <Header />
-        <h1>Projects</h1>
+        <Header />
+        <div>{`${projectInfo.name}`}</div> 
+        
+       
         <Footer />
       </div>
     )
-  }
+  
   
 }
  

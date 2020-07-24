@@ -1,9 +1,9 @@
 .App {
-  text-align: center;
+  text-align: left;
   font-family:"Lora", sans-serif;
   letter-spacing: 0.5px;
   line-height: 2em;
-  background-color: #eee2dc;
+  background-color: white;
 }
 
 .App-logo {
@@ -41,25 +41,39 @@
   }
 }
  /*header*/
-
- .nav-link{
+#header{
   text-decoration: none;
   text-transform: uppercase;
- }
+}
+ /*home*/
+.home-container{
+  padding: 50px;
+}
+
   /*about*/
 .about-body{
   margin: 10px;
   padding: 20px;
+  display: flex;
+  flex-direction: column;
 }
 .about-list{
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
+.about-item{
+  margin: 30px;;
+}
 .about-contact a{
   text-decoration: none;
   text-transform: uppercase;
   color:black;
+}
+.about-contact a:hover{
+  text-decoration: none;
+  text-transform: uppercase;
+  color:grey;
 }
 /*footer*/
 .footer{
