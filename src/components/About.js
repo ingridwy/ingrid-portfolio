@@ -12,9 +12,10 @@ class About extends React.Component{
 
        <div className="intro about-item">
         <p>
-            Hi, I'm Ingrid.<br></br>
-            I self-taught python via online course and later joined a 9-weeks-bootcamp at Le Wagon. <br></br>
-            
+            Hi, I'm Ingrid, a self-taught developer who recently accomplished Le Wagon coding bootcamp.<br></br>
+            See below for my tech skill and experience.
+            <br></br>
+
             </p>
         </div>
 
@@ -22,14 +23,14 @@ class About extends React.Component{
           <h2>Skills</h2>
           <ul className="about-list">
             <li>Ruby on Rails</li>
+            <li>JavaScript ES6</li>
             <li>PostgreSQL</li>
+            <li>JQuery</li>
             <li>HTML5</li>
             <li>SCSS</li>
-            <li>JavaScript ES6</li>
             <li>React</li>
-            <li>Vue</li>
-            <li>JQuery</li>
             <li>react-router</li>
+            <li>Vue</li>
             <li>Bootstrap3</li>
             <li>REST APIs</li>
             <li>Git</li>
