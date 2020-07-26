@@ -1,4 +1,4 @@
-export const projects = [
+export const projectsData = [
     {
       img: ["/image/dateplan.png", "/image/dateindex.png"],
       name: "Dating Guru",
@@ -28,4 +28,4 @@ export const projects = [
         ]
       }
 ]
-export default projects;
+export default projectsData;

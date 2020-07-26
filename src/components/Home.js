@@ -8,7 +8,7 @@ class Home extends React.Component {
       <div>
         <Header />
         <div className="home-container">
-          <img src="./image/photo.jpeg" alt="Ingrid's photo" class="home-photo"></img><br></br>
+          <img src="./image/profilephoto.jpeg" alt="" className="home-photo"></img><br></br>
           <div className="home-text">
             <h5>Ingrid Cheng</h5><br></br>
             <p> A full stack developer based in London.<br></br>

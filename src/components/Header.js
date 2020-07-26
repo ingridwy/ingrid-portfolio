@@ -6,17 +6,17 @@ import 'bootstrap/dist/css/bootstrap.css';
    render(){
     return (
     <div id="header">
-      <nav class="navbar navbar-expand-lg navbar-light " >
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <a class="nav-link flex-fill heade-item" >
+      <nav className="navbar navbar-expand-lg navbar-light " >
+        <div className="collapse navbar-collapse" id="navbarNav">
+          <div className="nav-link flex-fill heade-item" >
             <Link to="/" className= "header-link">Home</Link>
-            </a>
-            <a class="nav-link flex-fill" >
+            </div>
+            <div className="nav-link flex-fill" >
               <Link to="/about" className= "header-link">About</Link>
-            </a>
-            <a class="nav-link flex-fill">
+            </div>
+            <div className="nav-link flex-fill">
               <Link to="/projects" className= "header-link">Projects</Link>
-            </a>  
+            </div>  
         </div>
       </nav>   
     </div>

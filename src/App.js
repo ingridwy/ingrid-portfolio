@@ -6,12 +6,10 @@ import Home from './components/Home'
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 
 class App extends React.Component {
-  
   render(){
     return (
       <div className="App">
@@ -20,7 +18,6 @@ class App extends React.Component {
             <Route exact path="/"><Home /></Route>
             <Route exact path="/about"><About /></Route>
             <Route exact path="/projects"><Projects /></Route>
-            
           </Switch>
         </Router>
       </div>

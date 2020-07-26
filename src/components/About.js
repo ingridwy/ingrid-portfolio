@@ -1,7 +1,6 @@
 import React from "react"
 import Header from './Header'
 import Footer from './Footer'
-import { render } from "@testing-library/react"
  
 class About extends React.Component{
   render() {
@@ -47,10 +46,10 @@ class About extends React.Component{
         <div className="about-item">
           <h2>Contact</h2>
           <ul className="about-list about-contact">
-            <a href="https://www.linkedin.com/in/ingrid-cheng/" target="_blank">
+            <a href="https://www.linkedin.com/in/ingrid-cheng/" target="_blank" rel="noopener noreferrer">
               <li>LinkedIn</li>
             </a>
-            <a href="https://github.com/ingridwy" target="_blank">
+            <a href="https://github.com/ingridwy" target="_blank" rel="noopener noreferrer">
               <li>Github</li>
             </a>  
           </ul>

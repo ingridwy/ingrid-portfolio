@@ -1,21 +1,30 @@
 import React from "react"
 import Header from './Header'
 import Footer from './Footer'
-import projects from "./Data";
+import projectsData from "./Data";
  
-function Projects() {
-  const projectInfo = projects.map(project => project={project})
-
+class Projects extends React.Component {
+  constructor(){
+    super()
+    this.state = {
+      projects :projectsData
+    }
+  }
+  render() {
+    const projectInfo = this.state.projects.map(project => project={project})
+    console.log(projectInfo)
     return (
       <div>
         <Header />
-        <div>{`${projectInfo.name}`}</div> 
+        <div>{projectInfo.name}</div> 
         
        
         <Footer />
       </div>
-    )
+
   
+    )
+    }
   
 }
  
