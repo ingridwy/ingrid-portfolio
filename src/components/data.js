@@ -1,6 +1,7 @@
 export const projectsData = [
     {
-      img: ["/image/dateplan.png", "/image/dateindex.png"],
+      id:1,
+      img: ["/image/dateindex.png","/image/dateplan.png"],
       name: "Dating Guru",
       url: "http://www.dating-guru.site",
       github: "https://github.com/ingridwy/dating_guru",
@@ -14,6 +15,7 @@ export const projectsData = [
       ]
     },
     {
+      id:2,
         img: ["/image/renthomepng", "/image/rentindex.png","/image/rentindex2.png"],
         name: "Rent Dress",
         url: "https://rentdress.herokuapp.com/",
