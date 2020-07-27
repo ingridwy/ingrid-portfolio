@@ -1,6 +1,6 @@
 export const projectsData = [
     {
-      img: ["./image/datehomepage.png","./image/dateindex.png","./image/dateshow.png","./image/dateplan.png"],
+      img: ["./image/datehome.png","./image/dateindex.png","./image/dateshow.png","./image/dateplan.png"],
       name: "Dating Guru",
       url: "http://www.dating-guru.site",
       github: "https://github.com/ingridwy/dating_guru",
