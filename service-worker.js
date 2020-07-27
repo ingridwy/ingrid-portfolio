@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ingrid-portfolio/precache-manifest.8ee2c0ad45278c8bc4be18a4f1d5f57d.js"
+  "/ingrid-portfolio/precache-manifest.42a3294dbad434d83372e754a42cb6b5.js"
 );
 
 self.addEventListener('message', (event) => {

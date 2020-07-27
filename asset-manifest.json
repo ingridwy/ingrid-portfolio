@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ingrid-portfolio/static/css/main.2a0fdf62.chunk.css",
-    "main.js": "/ingrid-portfolio/static/js/main.aa7c691f.chunk.js",
-    "main.js.map": "/ingrid-portfolio/static/js/main.aa7c691f.chunk.js.map",
+    "main.js": "/ingrid-portfolio/static/js/main.33ea5a90.chunk.js",
+    "main.js.map": "/ingrid-portfolio/static/js/main.33ea5a90.chunk.js.map",
     "runtime-main.js": "/ingrid-portfolio/static/js/runtime-main.cabd474a.js",
     "runtime-main.js.map": "/ingrid-portfolio/static/js/runtime-main.cabd474a.js.map",
     "static/css/2.829c9cb5.chunk.css": "/ingrid-portfolio/static/css/2.829c9cb5.chunk.css",
     "static/js/2.68f8ec39.chunk.js": "/ingrid-portfolio/static/js/2.68f8ec39.chunk.js",
     "static/js/2.68f8ec39.chunk.js.map": "/ingrid-portfolio/static/js/2.68f8ec39.chunk.js.map",
     "index.html": "/ingrid-portfolio/index.html",
-    "precache-manifest.8ee2c0ad45278c8bc4be18a4f1d5f57d.js": "/ingrid-portfolio/precache-manifest.8ee2c0ad45278c8bc4be18a4f1d5f57d.js",
+    "precache-manifest.42a3294dbad434d83372e754a42cb6b5.js": "/ingrid-portfolio/precache-manifest.42a3294dbad434d83372e754a42cb6b5.js",
     "service-worker.js": "/ingrid-portfolio/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/ingrid-portfolio/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.2a0fdf62.chunk.css.map": "/ingrid-portfolio/static/css/main.2a0fdf62.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.68f8ec39.chunk.js",
     "static/css/main.2a0fdf62.chunk.css",
-    "static/js/main.aa7c691f.chunk.js"
+    "static/js/main.33ea5a90.chunk.js"
   ]
 }
