@@ -20,7 +20,6 @@ class Projects extends React.Component {
     return (
       <div>
         <Header />
-        
         <div className="projects-container">
           <h4>{`${eachProject.name}`}</h4>
           <p>Website: 

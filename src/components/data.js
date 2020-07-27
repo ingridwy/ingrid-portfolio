@@ -1,6 +1,6 @@
 export const projectsData = [
     {
-      img: ["/image/datehomepage.png","/image/dateindex.png","/image/dateshow.png","/image/dateplan.png"],
+      img: ["./image/datehomepage.png","/image/dateindex.png","./image/dateshow.png","./image/dateplan.png"],
       name: "Dating Guru",
       url: "http://www.dating-guru.site",
       github: "https://github.com/ingridwy/dating_guru",
@@ -16,7 +16,7 @@ export const projectsData = [
     },
     
     {
-        img: ["/image/renthome.png", "/image/rentindex.png","/image/rentindex2.png"],
+        img: ["./image/renthome.png", "./image/rentindex.png","./image/rentindex2.png"],
         name: "Rent Dress",
         url: "https://rentdress.herokuapp.com/",
         github: "https://github.com/AkaneF/rent_dress",
@@ -31,7 +31,7 @@ export const projectsData = [
         description: "RentDress is a B2B lending platform for users to rent dress from others and review experience. A map is provided to show location of the lender. Users can click on photo to see enlarge image or suggested items within same category."
       },
       {
-        img: ["/image/quiz.png"],
+        img: ["./image/quiz.png"],
         name: "FunQuizz",
         url: "https://funquizzz.herokuapp.com/",
         github: "https://github.com/AkaneF/rent_dress",
