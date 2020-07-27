@@ -9,11 +9,11 @@ class App extends React.Component {
   render(){
     return (
       <div className="App">
-        <Router>
+        <Router basename='/ingrid-portfolio'>
           <Switch>
-            <Route exact path="/"><Home /></Route>
-            <Route exact path="/about"><About /></Route>
+            <Route exact path="/about" ><About /></Route>
             <Route exact path="/projects"><Projects /></Route>
+            <Route exact path="/" ><Home /></Route>
           </Switch>
         </Router>
       </div>
