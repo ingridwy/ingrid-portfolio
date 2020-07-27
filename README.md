@@ -9,7 +9,7 @@ Using:
 * HTML5
 
 LinkedIn: [Ingrid Cheng](https://www.linkedin.com/in/ingrid-cheng/)<br>
-Website:
+Website: [My Portfolio](https://ingridwy.github.io/ingrid-portfolio/)
 
 ## Learn More
 
