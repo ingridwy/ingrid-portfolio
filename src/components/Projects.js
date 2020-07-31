@@ -27,8 +27,9 @@ class Projects extends React.Component {
               {` ${eachProject.url}`}
             </a>
           </p>
-          <p>Github: 
-            <a href={`${eachProject.github}`} target="_blank" rel="noopener noreferrer" className="project-link">{` ${eachProject.github}`}</a>
+          <p>GitHub: 
+            <a href={`${eachProject.github}`} target="_blank" rel="noopener noreferrer" className="project-link">
+              <img src="image/github.png" alt="" class="github-image"/></a>
           </p>
           <p>Tech: {`${eachProject.skills.join(" ○ ")}`}</p>
           <p>{`${eachProject.description}`}</p>
@@ -46,8 +47,10 @@ class Projects extends React.Component {
               {` ${secondProject.url}`}
             </a>
           </p>
-          <p>Github: 
-            <a href={`${secondProject.github}`} target="_blank" rel="noopener noreferrer" className="project-link">{` ${eachProject.github}`}</a>
+          <p>GitHub: 
+            <a href={`${secondProject.github}`} target="_blank" rel="noopener noreferrer" className="project-link">
+              <img src="image/github.png" alt="" class="github-image"/>
+              </a>
           </p>
           <p>Tech: {`${secondProject.skills.join(" ○ ")}`}</p>
           <p>{`${secondProject.description}`}</p>
@@ -65,8 +68,10 @@ class Projects extends React.Component {
               {` ${thirdProject.url}`}
             </a>
           </p>
-          <p>Github: 
-            <a href={`${thirdProject.github}`} target="_blank" rel="noopener noreferrer" className="project-link">{` ${eachProject.github}`}</a>
+          <p>GitHub: 
+            <a href={`${thirdProject.github}`} target="_blank" rel="noopener noreferrer" className="project-link">
+            <img src="image/github.png" alt="" class="github-image"/>
+            </a>
           </p>
           <p>Tech: {`${thirdProject.skills.join(" ○ ")}`}</p>
           <p>{`${thirdProject.description}`}</p>

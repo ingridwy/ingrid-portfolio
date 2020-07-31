@@ -116,3 +116,6 @@
   text-decoration: none;
   color:grey;
 }
+.github-image{
+  max-height: 40px;
+}
