@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8b8ece8ac2f71bff91aa131eb6e0a5a",
+    "revision": "1a59d1de04052682ce4e6d0e35db0fdb",
     "url": "/ingrid-portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ingrid-portfolio/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "d2afe7df03e864da52eb",
-    "url": "/ingrid-portfolio/static/css/main.489555ea.chunk.css"
+    "revision": "c3b6944ca35d48f279c3",
+    "url": "/ingrid-portfolio/static/css/main.454fef1e.chunk.css"
   },
   {
     "revision": "0108a286131487f44c71",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ingrid-portfolio/static/js/2.68f8ec39.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d2afe7df03e864da52eb",
+    "revision": "c3b6944ca35d48f279c3",
     "url": "/ingrid-portfolio/static/js/main.7eb24218.chunk.js"
   },
   {
