@@ -119,3 +119,6 @@
 .github-image{
   max-height: 40px;
 }
+.github-image:hover{
+  opacity:0.5;
+}
