@@ -41,16 +41,12 @@
   }
 }
  /*header*/
-.header-link{
-  text-decoration: none;
-  text-transform: uppercase;
-  color:black;
+.navbar-nav li{
+  line-height: 3;
+  padding-left: 2rem;
+  font-size: 20px;
 }
-.header-link:hover{
-  text-decoration: none;
-  text-transform: uppercase;
-  color:grey;
-}
+
 
  /*home*/
 .home-container{

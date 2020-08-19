@@ -8,17 +8,19 @@ import { withRouter } from "react-router";
     return (
     <div id="header">
       <nav className="navbar navbar-expand-lg navbar-light " >
-        <div className="collapse navbar-collapse" id="navbarNav">
-          <div className="nav-link flex-fill heade-item" >
-            <Link to="/" className= "header-link">Home</Link>
-            </div>
-            <div className="nav-link flex-fill" >
-              <Link to="/about" className= "header-link">About</Link>
-            </div>
-            <div className="nav-link flex-fill">
-              <Link to="/projects" className= "header-link">Projects</Link>
-            </div>  
-        </div>
+      <div className="collapse navbar-collapse" id="navbarNav">
+        <ul className="navbar-nav">
+          <li classNmae="nav-item">
+            <Link to="/" className="nav-link">Home </Link>
+          </li>
+          <li className="nav-item">
+            <Link to="/about" className="nav-link" >About</Link>
+          </li>
+          <li className="nav-item">
+            <Link to="/projects" className="nav-link" >Projects</Link>
+          </li>
+        </ul>
+      </div>
       </nav>   
     </div>
         )
